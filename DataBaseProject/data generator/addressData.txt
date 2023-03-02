@@ -1,0 +1,3 @@
+#addr_id, #city, #street, #house_num, #apt_num, #postalcode, #po_box
+102, jerusalem, teena, 5, 5, 456, 756
+103, tel-aviv', rimon, 6, 8, 643, 68
